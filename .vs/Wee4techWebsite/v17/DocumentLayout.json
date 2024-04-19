@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wee4Tech\\Project\\Wee4TechWebsite\\Wee4TechWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{856B0E45-80B6-40F5-82B6-706E5AEDC275}|Wee4techWebsite\\Wee4techWebsite.csproj|d:\\wee4tech\\project\\wee4techwebsite\\wee4techwebsite\\wee4techwebsite\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{856B0E45-80B6-40F5-82B6-706E5AEDC275}|Wee4techWebsite\\Wee4techWebsite.csproj|solutionrelative:wee4techwebsite\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Wee4Tech\\Project\\Wee4TechWebsite\\Wee4TechWebsite\\Wee4techWebsite\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Wee4techWebsite\\Views\\Web.config",
+              "ToolTip": "D:\\Wee4Tech\\Project\\Wee4TechWebsite\\Wee4TechWebsite\\Wee4techWebsite\\Views\\Web.config",
+              "RelativeToolTip": "Wee4techWebsite\\Views\\Web.config",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-19T07:20:35.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
